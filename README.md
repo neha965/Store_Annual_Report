@@ -10,7 +10,7 @@ Sharing some **Key Insights** about sales and customer data from the Store Analy
 
 📦 Order Status: Classified orders into Delivered, Refunded, Returned, and Cancelled to highlight fulfillment efficiency and areas for improvement. Shows that **92% of orders are successfully delivered**.
 
-📈 Top States by Sales: Maharashtra leads, followed by Karnataka and Uttar Pradesh.
+📈 Top States by Sales: **Maharashtra leads**, followed by Karnataka and Uttar Pradesh.
 
 👥 Demographic Insights: Reveals that **adults are the primary buyers**, with **women leading across all age groups**, offering a clear view of customer behavior
 
