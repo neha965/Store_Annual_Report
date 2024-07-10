@@ -3,6 +3,7 @@
 **Vrinda Store Annual Report, 2023** to understand the customers and grow more sales in 2024.
 
 Sharing some **Key Insights** about sales and customer data from the Store Analysis Dashboard:
+
 📊 Monthly Sales: Analyzed monthly orders and sales to spot key trends and patterns. Provides a comprehensive monthly performance overview, highlighting a **peak in August**.
 
 🔍 Gender Distribution: Visualized sales by gender, indicates that women account for 64% of total sales, revealing **women are more likely to buy compared to men**.
