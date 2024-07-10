@@ -1,6 +1,6 @@
 # Store_Annual_Report
 # Objective:
-**Vrinda Store Annual Report, 2023** to understand the customers and grow more sales in 2024.
+**Vrinda Store Annual Report, 2022** to understand the customers and grow more sales in 2023.
 
 Sharing some **Key Insights** about sales and customer data from the Store Analysis Dashboard:
 
